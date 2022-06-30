@@ -1,8 +1,0 @@
-
-Search Catalog -Latest or Available updates for a windows version
-----------------------------------
-
-https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%2010%2021h1
-
-
-Cumulative Update for Windows 10 Version 1909
