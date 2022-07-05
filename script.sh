@@ -1,1 +1,1 @@
-echo "This is my Sample Message"
+echo "This is my Sample Message by the script"
